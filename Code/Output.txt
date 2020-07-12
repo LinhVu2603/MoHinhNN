@@ -1,0 +1,3 @@
+f_total = 92.0815764947555
+Numbers of servers in system  = 19
+Maximum numbers of customers possible in the system = 31

@@ -1,0 +1,7 @@
+{     "Cost per queue" : 1,
+      "Cost per server" : 4,
+      "veclamda" : [40,26,25] ,
+      "c" : [20,7,6],
+      "Rate of going state n to state n-1": 6,
+      "Maximum of MeanWaitingTime" : 1,
+      "K_max" : 150, "C_max" : 50  }
